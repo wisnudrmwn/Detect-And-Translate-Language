@@ -1,1 +1,1 @@
-# Detect-And-Translate-Language
+# Detect And Translate Language
